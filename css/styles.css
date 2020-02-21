@@ -1,37 +1,17 @@
-h1, h2 {
-    text-align: center;
-    font-size: medium;
-    font-family: 'Courier New', Courier, monospace;
-    color: black
-}
-div {
-    text-align: center;
-    color:black;
-    background-image: 
-}
-div {
-    text-align: center;
+h2 {
     color: black;
-}
-.container {
-    position: relative;
     text-align: center;
-    color: white;
 }
+div {
+    text-align: center;
+    color: chocolate;
+}
+.homepage {
+    background-image: url(/home/evans/Documents/delani-studio/images/h_img.jpg);
+    padding: 20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: x-large;
 
-.topleft {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: medium;
-}
-img {
-    max-width: 100%;
-    height: auto;
-}
-2 {
-    text-align: center;
-    font-size: medium;
-    font-family: 'Courier New', Courier, monospace;
-    color: black
 }
