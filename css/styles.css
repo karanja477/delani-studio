@@ -19,7 +19,7 @@ body {
 }
 
 .homepage {
-    background-image: url(/home/evans/Documents/delani-studio/images/h_img.jpg);
+    background-image: url(images/h_img.jpg);
     padding: 20%;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body {
     font-size: medium;
 
 }.services {
-    background-image: url(/home/evans/Documents/delani-studio/images/s_image.jpg);
+    background-image: url(images/s_image.jpg);
     padding: 20%;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ body {
 
 
 .contact {
-    background-image: url(/home/evans/Documents/delani-studio/images/image1.jpg);
+    background-image: url(images/image1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
