@@ -31,7 +31,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
-    font-size: small;
+    font-size: medium;
     color: white;
 }
 
@@ -58,6 +58,12 @@ body {
     font-size: small;
     object-fit: cover;
 }
+
+
+#image1{
+    width: 100%;
+}
+
 
 footer {
     text-align: center;
