@@ -24,7 +24,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
-    font-size: small;
+    font-size: medium;
 
 }.services {
     background-image: url(/home/evans/Documents/delani-studio/images/s_image.jpg);
@@ -63,9 +63,14 @@ body {
 
 #image1{
     width: 100%;
+    
 }
 
 footer {
     text-align: center;
 }
-
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    
+  }
