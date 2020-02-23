@@ -46,6 +46,7 @@ $(document).ready(function(){
       var name = $("input#MERGE1").val();
       var email = $("input#MERGE0").val();
       var message = $("textarea#comment").val();
+      console.log("your email is" + email + name + message)
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
         alert (name + ", we have received your message. Thank you for reaching out to us.");
       }
