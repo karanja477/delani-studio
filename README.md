@@ -6,7 +6,7 @@ Delani-studio working mechanism
 
 ##Technologies used. The web-application has used several programming languages: Javascript, HTML, JQuery and Bootstrap
 
-##Livelink to Gh-Pages; https://karanja477.github.io/my-project/- Kindly copy paste the link to web-browser to see its workability https://github.com/karanja477/my-project.git - Link to my portfolio
+##Livelink to Gh-Pages; https://karanja477.github.io/delani-studio/ Kindly copy paste the link to web-browser to see its workability https://github.com/karanja477/delani-studio.git - Link to my portfolio
 
 ##Contact information. email address: e12karanja@gmail.com : Skype: Evans Karanja or Slack E12karanja
 
