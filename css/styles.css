@@ -57,6 +57,15 @@ body {
     opacity: 0.9;
 }
 
+.form-control {
+    color: white !important;
+    height: auto;
+    background: rgba(76, 175, 80, 0.1) !important;
+}
+
+::placeholder{
+    color: yellow !important;
+}
 
 #image1{
     width: 100%;
